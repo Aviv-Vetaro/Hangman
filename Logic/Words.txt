@@ -1,0 +1,10 @@
+encapsulation
+polymorphism
+overloading
+message
+receiver
+member
+class
+instance
+inheritance
+interface
